@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Leanne",
+      "email": "Leanne@april.biz",
+      "major":"Accounting/Personal Finance"
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Ervin",
+      "email": "Ervin@melissa.tv",
+      "major":"Art/Design"
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Clementine",
+      "email": "Clementine@yesenia.net",
+      "major":"Business/Business Management"
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Patricia",
+      "email": "Patricia.Lebsack@kory.org",
+      "major":"Communication/Speech"
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Chelsey",
+      "email": "Chelsey_Dietrich@annie.ca",
+      "major":"History"
+    },
+    {
+      "id": 6,
+      "name": "Mrs. Dennis Schulist",
+      "username": "Dennis_Schulist",
+      "email": "Dennis_Schulist@jasper.info",
+      "major":"Journalism/Writing"
+    },
+    {
+      "id": 7,
+      "name": "Kurtis Weissnat",
+      "username": "Kurtis.Weissnat",
+      "email": "Kurtis.Weissnat@billy.biz",
+      "major":"Sciences"
+    },
+    {
+      "id": 8,
+      "name": "Nicholas Runolfsdottir V",
+      "username": "Nicholas_Runolfsdottir",
+      "email": "Nicholas@rosamond.me",
+      "major":"Political Science"
+    },
+    {
+      "id": 9,
+      "name": "Glenna Reichert",
+      "username": "Glenna",
+      "email": "Glenna_Reichert@dana.io",
+      "major":"Statistics"
+    },
+    {
+      "id": 10,
+      "name": "Clementina DuBuque",
+      "username": "Clementina.DuBuque",
+      "email": "Clementina.DuBuque@karina.biz",
+      "major":"Computer Science/Web Design/Cybersecurity"
+    }
+  ]
+}
